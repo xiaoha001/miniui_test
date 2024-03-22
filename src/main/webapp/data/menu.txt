@@ -1,0 +1,16 @@
+﻿[
+	{ "id": "1", iconCls: "fa fa-desktop", text: "敏捷开发", url: "pages/test1.html" },
+
+    { "id": "xtgl", iconCls: "fa fa-book", text: "系统管理", url: "pages/test2.html" },
+
+    { "id": "dwzz", iconCls: "fa fa-th-list", text: "单位组织", url: "pages/1.html" },
+
+    { "id": "bdzx", iconCls: "fa fa-table", text: "表单中心", url: "pages/1.html" },
+
+    { "id": "lczx", iconCls: "fa fa-industry", text: "流程中心", url: "pages/1.html" },
+
+    { "id": "bbzx", iconCls: "fa fa-wpforms", text: "报表中心", url: "pages/1.html" },
+
+    { "id": "ggxx", iconCls: "fa-feed", text: "公共信息", url: "pages/1.html" }
+
+]
